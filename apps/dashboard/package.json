@@ -15,8 +15,7 @@
     "@mui/lab": "5.0.0-alpha.122",
     "@mui/material": "~5.11.12",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "recharts": "~2.4.3"
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@module-federation/vite": "~0.2.6",
